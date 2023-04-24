@@ -1,0 +1,10 @@
+
+// This is our icon for the application. We don't need
+// anything else in this file ... but you can add dialogs and stuff
+// if you desire. You need to have a resource compiler to build
+// an object file out of this
+
+#define	IDI_ICON		0x01L		// IDs same as in Common.inc
+
+IDI_ICON	ICON "mainicon.ico"
+
