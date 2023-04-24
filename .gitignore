@@ -1,0 +1,7 @@
+/src/Build/*.obj
+/src/Build/*.res
+/src/Snake.exe
+/src/Snake.ilk
+/src/Snake.pdb
+/src/data1/errors.txt
+/export/data1/errors.txt
