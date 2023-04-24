@@ -5,15 +5,9 @@ Deutsche Readme unten!
 Snake with DirectX Engine
 This is a Beta Version: Try out everything
 and send me your comments
-www.schonberg.de
 
 If you want to use it as an advertisement
 game, contact me and we can work it out.
-
-This program is free for copy. However,
-it is not allowed to change it in any way
-or distribute it for payment.
-
 
 Installation
 The program extracts all files into the
@@ -197,19 +191,13 @@ Don't forget to mirror the TGA!
 Snake by Oshi   v.0-99-1
 
 Snake mit DirectX Engine
-Es läuft bis auf Kleinigkeiten richtig, und man kann
+Es lÃ¤uft bis auf Kleinigkeiten richtig, und man kann
 schon eine ganze Menge ausprobieren. Senden sie ruhig
 Feedback.
 
 Wer das Spiel als an die eigene
 Firma angepasstes Werbespiel anbieten
-möchte, setzt sich mit mir bitte in Verbindung
-www.schonberg.de
-
-Dieses Programm darf frei kopiert werden.
-Es darf jedoch ohne meine Genehmigung
-nicht verändert werden, oder gegen
-Bezahlung angeboten werden.
+mÃ¶chte, setzt sich mit mir bitte in Verbindung
 
 
 Installation
@@ -218,17 +206,17 @@ Verzeichnis, einzige Vorraussetzung ist mindestens
 DirectX 6.0 mit Soundkarte und einer Grafikkarte,
 die 800*600 Pixel im 16bit Farben Modus mit Double
 Buffering darstellen kann, dies sollte in einem PC,
-der nicht älter als 5 Jahre ist, kein Problem sein.
+der nicht Ã¤lter als 5 Jahre ist, kein Problem sein.
 
 Die Regeln
 Der Spieler steuert die Schlange mit den Pfeiltasten.
-Es ist weder erlaubt, das Labyrinth zu berühren, noch
-den eigenen Schlangenkörper. Es gibt eine sehr kurze
-Verzögerung vor dem Crash, um Fehler zu korrigieren.
+Es ist weder erlaubt, das Labyrinth zu berÃ¼hren, noch
+den eigenen SchlangenkÃ¶rper. Es gibt eine sehr kurze
+VerzÃ¶gerung vor dem Crash, um Fehler zu korrigieren.
 Ziel ist es, die Punkte zu "fressen", basierend auf
 eingestellten Geschwindigkeit der Schlange kriegt man
 Punkte gutgeschrieben. Jedesmal, wenn die Schlange
-frisst, wird sie ein Stück länger.
+frisst, wird sie ein StÃ¼ck lÃ¤nger.
 
 Die Punkteverteilung ist wie folgt:
 Geschw.     Punkte           Zeit     Maximal
@@ -243,14 +231,14 @@ Geschw.     Punkte           Zeit     Maximal
 9          15                 10ms    3405
 x          20               sofort    4540
 
-Die Zeit ist die Verzögerung, die der Computer
+Die Zeit ist die VerzÃ¶gerung, die der Computer
 einrechnet, wenn er die Szene schnell genug
 berechnen kann. ein langsamer Computer wird nur eine
 begrenzte Update Zeit haben, die Schlange wird trotz
-höherer Einstellung nicht schneller. Die Maximal-
+hÃ¶herer Einstellung nicht schneller. Die Maximal-
 Punktzahl ergibt sich aus der Tatsache, dass nur ein
 Spielfeld von 234 vorhanden ist (und die Schlange mit
-der Länge 7 beginnt)
+der LÃ¤nge 7 beginnt)
 
 Die Bildschirme
 Der erste Bildschirm, den sie sehen werden ist der
@@ -262,45 +250,45 @@ umschalten kann.
 Der Hauptschirm hat folgende Optionen:
 N        New      startet ein neues Spiel mit den zur
                   Zeit aktivierten Optionen
-1-0      Load I.  lädt ein vorher gespeichertes Spiel
-G        Game O.  öffnet die Optionen
-E        Exit     schließt das Spiel und speichert
+1-0      Load I.  lÃ¤dt ein vorher gespeichertes Spiel
+G        Game O.  Ã¶ffnet die Optionen
+E        Exit     schlieÃŸt das Spiel und speichert
                   die meisten Einstellungen
 
 Die Optionen:
-M        Main     geht zurück ins Hauptmenü
-JKL      Points   ändert den Punkt-Typ
+M        Main     geht zurÃ¼ck ins HauptmenÃ¼
+JKL      Points   Ã¤ndert den Punkt-Typ
 F        Sound FX stellt den Sound ein/aus
 S        Music    stellt die Musik ein/aus
-q-p      Lab.     lädt ein definiertes Labyrinth
-c        custom   öffnet den Editor
-1-9,x    Speed    ändert die Geschwindigkeit der Schlange
+q-p      Lab.     lÃ¤dt ein definiertes Labyrinth
+c        custom   Ã¶ffnet den Editor
+1-9,x    Speed    Ã¤ndert die Geschwindigkeit der Schlange
 
 Die Schlange bewegt sich im aktuellen Tempo, der Sound
-und die Musik verhalten sich gemäß den Einstellungen
+und die Musik verhalten sich gemÃ¤ÃŸ den Einstellungen
 
 Der Editor wird wie folgt gesteuert:
-M        Main     geht zurück ins Hauptmenü
-B        Back     geht zurück in die Optionen
-1-0      Grid     ändert das aktuelle Stück
+M        Main     geht zurÃ¼ck ins HauptmenÃ¼
+B        Back     geht zurÃ¼ck in die Optionen
+1-0      Grid     Ã¤ndert das aktuelle StÃ¼ck
 Pfeiltasten       positionieren die Arbeitsstelle
-Space             setzen ein Stück oder entfernen das
+Space             setzen ein StÃ¼ck oder entfernen das
                   zur Zeit positionierte
-S        Save     öffnet die Speicherabfrage, q-p speichert
+S        Save     Ã¶ffnet die Speicherabfrage, q-p speichert
                   das aktuelle Labyrinth ab, ESC beendet die
                   Abfrage ohne zu speichern
 
 Der Spielschirm hat folgende Kommandos:
 M, ESC   Main     Beendet das aktuelle Spiel und geht in den
                   Hauptbildschirm
-P, SPACE          pausiert das Spiel und gibt die Möglichkeit,
+P, SPACE          pausiert das Spiel und gibt die MÃ¶glichkeit,
                   in 1-0 zu speichern
 Pfeiltasten       kontrollieren die Schlange und beenden
                   die Pause
 
 -Two Player Multiplayer Mode auf einem PC
 
-Tasten für Spieler 2 sind:
+Tasten fÃ¼r Spieler 2 sind:
                  w   hoch
                  s   runter
                  a   links
@@ -308,42 +296,42 @@ Tasten für Spieler 2 sind:
 
 Zum Start einer Multiplayer-Runde erscheint der Editor
 Er zeigt das Labyrinth und die beiden Schlangen an,
-wie sie zum Start der nächsten Runden auch auf dem
+wie sie zum Start der nÃ¤chsten Runden auch auf dem
 Feld erscheinen.
 
-Wenn Return gedrückt wird wechselt das Spiel in den
+Wenn Return gedrÃ¼ckt wird wechselt das Spiel in den
 IDLE-Modus. Das Spiel startet, wenn beide Spieler
-gleichzeitig eine Bewegungstaste drücken
+gleichzeitig eine Bewegungstaste drÃ¼cken
 
 Das Feld verliert am Ende von Runden manchmal Punkte. Mit
-der Leertaste können sie im IDLE-Modus in den Editor
-wechseln und das Labyrinth dementsprechend verändern.
+der Leertaste kÃ¶nnen sie im IDLE-Modus in den Editor
+wechseln und das Labyrinth dementsprechend verÃ¤ndern.
 
 
 -Eigene Bilder verwenden
 Seit der Version 0-99-1 kann man eigene Bilder als Hintergrund
-benutzen. Diese müssen 800*600 groß sein 24bit haben und
-als TGA in dem Pfad der Exe gespeichert sein. Außerdem müssen
+benutzen. Diese mÃ¼ssen 800*600 groÃŸ sein 24bit haben und
+als TGA in dem Pfad der Exe gespeichert sein. AuÃŸerdem mÃ¼ssen
 sie horizontal gespiegelt sein.
 
-play.tga     Spielfläche
-main.tga     Haupt-Menü
+play.tga     SpielflÃ¤che
+main.tga     Haupt-MenÃ¼
 editor.tga   Editor
 options.tga  Optionen
 
 Seit der Version 1.0 kann man JPG-Bilder als Hintergrund
-benutzen. Diese müssen 800*600 groß und im Pfad der Exe
-gespeichert sein. Außerdem muss man sie horizontal und
+benutzen. Diese mÃ¼ssen 800*600 groÃŸ und im Pfad der Exe
+gespeichert sein. AuÃŸerdem muss man sie horizontal und
 vertikal spiegeln. Bei Ladefehlern wird wenn vorhanden
-auf die TGA Datei zurückgegriffen.
+auf die TGA Datei zurÃ¼ckgegriffen.
 
-play.jpg     Spielfläche
-main.jpg     Haupt-Menü
+play.jpg     SpielflÃ¤che
+main.jpg     Haupt-MenÃ¼
 editor.jpg   Editor
 options.jpg  Optionen
 
 
-Außerdem kann man 44*44 24bit TGA Bilder für die Schlange,
+AuÃŸerdem kann man 44*44 24bit TGA Bilder fÃ¼r die Schlange,
 das Labyrinth und die Punkte verwenden:
 
 snake_hr.tga  Kopf nach rechts
@@ -354,12 +342,12 @@ snake_tr.tga  Schwanz nach rechts
 snake_tl.tga  Schwanz nach links
 snake_tu.tga  Schwanz nach oben
 snake_td.tga  Schwanz nach unten
-snake_lr.tga  Körper links nach rechts
-snake_lu.tga  Körper links nach oben
-snake_ld.tga  Körper links nach unten
-snake_ru.tga  Körper rechts nach oben
-snake_rd.tga  Körper rechts nach unten
-snake_ud.tga  Körper oben nach unten
+snake_lr.tga  KÃ¶rper links nach rechts
+snake_lu.tga  KÃ¶rper links nach oben
+snake_ld.tga  KÃ¶rper links nach unten
+snake_ru.tga  KÃ¶rper rechts nach oben
+snake_rd.tga  KÃ¶rper rechts nach unten
+snake_ud.tga  KÃ¶rper oben nach unten
 
 point1.tga
 point2.tga
