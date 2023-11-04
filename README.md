@@ -5,6 +5,8 @@ https://archive.gamedev.net/archive/reference/list1951.html?categoryid=201
 
 https://archive.gamedev.net/archive/reference/programming/features/win32asm6/game.zip
 
+![3-snake-by-oshi.jpg](https://github.com/alexoshi/Snake-by-Oshi/assets/67208802/8d8b861f-14fc-41a9-b72b-9b8a2b1448ca)
+
 # Compiling
 You need the MASM32 SDK setup on the same harddrive or adjust the build.bat 
 
